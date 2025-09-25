@@ -1,5 +1,5 @@
 # Basic-Vulnerabilities-Scan-
-🔍 Basic Vulnerability Scan – Task 3
+🔍 Basic Vulnerability Scan – 
 
 For this task, I performed a basic vulnerability scan on my PC using Nessus Essentials.
 The goal was to find out what common security issues exist on my system and learn how to fix them.
