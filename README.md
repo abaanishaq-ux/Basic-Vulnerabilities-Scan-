@@ -59,3 +59,5 @@ Run a scan on my own PC
 Interpret results and severity
 
 Research simple fixes for common issues
+
+And with that i am also attaching the screenshots of scan And also the report of the scan.
